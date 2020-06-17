@@ -1,15 +1,15 @@
 # Simple Windows Service
 
-Ten projekt to prosta aplikacja konsolowa, która będzie działać jako windows service. Można będzie ją zainstalować i odinstalować w windows services. usługa po wystartowaniu będzie działać w nieskonczonosc i zapisywac jakies dane do pliku tekstowego, dopoki nie zostanie wylaczona.
+Ten projekt to prosta aplikacja konsolowa, która będzie działać jako Windows Service. Można będzie ją zainstalować i odinstalować w Windows Services. Usługa po wystartowaniu będzie działać w nieskończoność i zapisywać jakieś dane do pliku tekstowego, dopóki nie zostanie wyłączona.
 
 
-## instalacja
+## Instalacja
 
-- skopiować pliki z folderu bin z solucji do jakiejs niezmiennej lokalizacji na dysku C
-- otworzyc command prompt z prawami admina i wejsc do tego folderu
-- uruchomic SimpleWindowsService.exe install
+- Skopiować pliki z katalogu bin z solucji do katalogu "C:\my-services\SimpleWindowsService"
+- Otworzyć command prompt z prawami admina i wejść do "C:\my-services\SimpleWindowsService"
+- Wpisać i uruchomić "SimpleWindowsService.exe install"
 
-## odinstalowanie
+## Odinstalowanie
 
-- otworzyc command prompt z prawami admina i wejsc do tego folderu
-- uruchomic SimpleWindowsService.exe uninstall
+- Otworzyć command prompt z prawami admina i wejść do katalogu "C:\my-services\SimpleWindowsService"
+- Wpisać i uruchomić "SimpleWindowsService.exe uninstall"
