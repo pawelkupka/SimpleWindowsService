@@ -8,7 +8,7 @@ Ten projekt to prosta aplikacja konsolowa, która będzie działać jako Windows
 - Skopiować pliki z katalogu "bin\Release\netcoreapp3.1" z solucji do katalogu "C:\my-services\SimpleWindowsService"
 - Otworzyć command prompt z prawami admina i wejść do "C:\my-services\SimpleWindowsService"
 - Wpisać i uruchomić "SimpleWindowsService.exe install"
-- Po zainstalowaniu uruchomić Windows Services w panelu sterowania z prawami admina i można już wystartować usługę
+- Po zainstalowaniu uruchomić z prawami admina Windows Services w panelu sterowania i można już wystartować usługę
 
 ## Odinstalowanie
 
